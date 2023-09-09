@@ -10,4 +10,4 @@
  name=DevOps
 
  # how to access variable
- echo value of a = $a
+ echo value of a = $a f
